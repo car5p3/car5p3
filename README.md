@@ -5,6 +5,9 @@
 - 📚 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝑹𝒆𝒂𝒄𝒕, 𝑵𝒆𝒙𝒕.𝒋𝒔, 𝑵𝒐𝒅𝒆.𝒋𝒔, 𝑬𝒙𝒑𝒓𝒆𝒔𝒔.𝒋𝒔, 𝑴𝒐𝒏𝒈𝒐𝑫𝑩, 𝑭𝒊𝒓𝒆𝑩𝒂𝒔𝒆......
 - 🎆 ᴍʏ ʜᴏʙʙɪᴇꜱ ɪɴᴄʟᴜᴅᴇꜱ: ɢᴀᴍɪɴɢ 🎮, ᴀɴɪᴍᴇ 📺 & ᴘʀᴏɢʀᴀᴍᴍɪɴɢ 💻.
 
+
+[![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Fcar5p3&style=for-the-badge)](https://rankistan.dev)
+
 <!---
 car5p3/car5p3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
